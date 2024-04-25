@@ -1,0 +1,17 @@
+/* Header.css */
+
+.header {
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    background-color: #ff7300;
+    color: #fff;
+    padding: 1rem;
+  }
+  
+  .logo {
+    font-size: 1.5rem;
+  }
+  
+  
+  
